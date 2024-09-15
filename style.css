@@ -1,0 +1,41 @@
+body {
+    font-family: Helvetica;
+    background-image: url(./img/background-nature.jpg);
+    background-size: cover;
+}
+
+.main {
+    max-width: 420px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 24px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.28);
+    margin-top: 105px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+input {
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+}
+
+button {
+    background-color: #007bff;
+    color: #f0f0f0;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.info {
+    margin-top: 20px;
+}
